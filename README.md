@@ -14,7 +14,7 @@ Career Opportunities in Ruby on Rails In Bangladesh ( All Lists of Companies )
 ## Gigalogy ( https://gigalogy.com/ )
 ## iFarmer ( https://ifarmer.asia/ )
 ## Syftet Limited ( https://syftet.com/ )
-## InDeTechs Software Limited
+## InDeTechs Software Limited ( https://indetechs.com/ )
 ## Bit Foundations ( https://bitfountain.co/ )
 ## Misfit Tech ( https://misfit.tech/ )
 ## Hashkloud
