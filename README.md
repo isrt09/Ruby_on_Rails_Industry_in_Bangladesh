@@ -3,12 +3,19 @@ Ruby is a language released by Yukihiro Matsumoto in 1995 that bills itself as "
 
 Career Opportunities in Ruby on Rails In Bangladesh ( All Lists of Companies )
 ## WellDev Bangladesh ( https://www.welldev.io/ )
+Kemal Ataturk Avenue 28 & 30, Dhaka
 ## Cefalo ( https://www.cefalo.com/ )
+House: 12, Road: 12, Dhanmondi, Dhaka
 ## Nascenia ( https://nascenia.com/ )
+House 6/14, Block A, Lalmatia, Dhaka
 ## Relisource ( https://www.relisource.com/ )
+House 4A1, Road 139, Gulshan-1 , Dhaka
 ## Brain Station23 ( https://brainstation-23.com/ )
+8th Floor, 2 Bir Uttam AK Khandakar Road, Dhaka 
 ## InfoDigita Technologies ( http://infodigita.com/ )
+Facilities Tower, 9th Floor, Kha-199/2, Bir Uttam Rafiqul Islam Ave, Next to the Moddho Badda U loop, Dhaka 
 ## Bit & Byte Technology ( https://bitbytetechnology.com/ )
+1/1 NS Road, (2nd Floor), Block A, Banasree, Dhaka
 ## Colgis BD Ltd ( http://colgis-bd.com/ )
 ## Orbit Informatics Ltd ( http://www.orbitinformatics.com/ )
 ## Gigalogy ( https://gigalogy.com/ )
