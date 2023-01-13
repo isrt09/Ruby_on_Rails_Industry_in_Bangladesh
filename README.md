@@ -2,6 +2,8 @@
 Ruby is a language released by Yukihiro Matsumoto in 1995 that bills itself as "a programmer's best friend". Every aspect of Ruby is designed to make programming easier for the developer. Ruby also serves as the foundation for Ruby on Rails, a popular web framework that powers over 1.2 million websites worldwide
 
 Career Opportunities in Ruby on Rails In Bangladesh ( All Lists of Companies )
+## BJIT Ltd ( https://bjitgroup.com/ )
+H-2275, 2279, Pachkhula, Satarkul, Badda,, Dhaka 
 ## WellDev Bangladesh ( https://www.welldev.io/ )
 Kemal Ataturk Avenue 28 & 30, Dhaka
 ## Cefalo ( https://www.cefalo.com/ )
