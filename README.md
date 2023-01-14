@@ -21,7 +21,21 @@ BJIT’s core services include -
 The company has highly skilled offsite as well as on-site engineers - its resources are deployed in all its global offices in Japan, Finland, Singapore, the U.S.A., Sweden, Netherlands, and Bangladesh.
 
 ## WellDev Bangladesh ( https://www.welldev.io/ )
-Kemal Ataturk Avenue 28 & 30, Dhaka
+We offer innovative, high performing and customer-centric software development. From creating robust designs to implementing and maintaining highly scalable applications, we are with you all the way. Our holistic approach, professional support and flexibility allow our customers to continuously achieve their project goals as we collaborate to create tools that go beyond the limits of traditional software development. Our expertise includes developing high end eCommerce solutions with integrated ERP, CRM, and CMS platforms, integrated vending solution, and complex AI based chatbot and automation products.
+
+We are always ready to explore new processes of doing things and assist our clients to conduct their business activities smoothly.
+
+We serve clients in E-commerce, Fashion, Service, Consulting, Travel and Finance and are based in Australia, Europe, North America.
+
+𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐂𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐞:
+- software development
+- Web development
+- Enterprise resource planning tools
+- Ecommerce Development
+- Inventory Management System
+- AI and automation and
+- Chatbot
+
 ## Cefalo ( https://www.cefalo.com/ )
 About us
 Cefalo is a Norway based software development and IT service provider company with its development center in Dhaka, Bangladesh and headquarters in Oslo, Norway.  We have 200+ highly skilled software development consultants working with the latest web, mobile and cloud stacks along with micro-service architecture and CI/CD pipeline, exercising industry standard principles & best practices to build scalable, high performance & robust software solutions for some of the big players in Europe. We are also working with Manual and Automated Software Testing, AI, Machine Learning, Business Intelligence, Data Science and Industry 4.0 technologies. 
