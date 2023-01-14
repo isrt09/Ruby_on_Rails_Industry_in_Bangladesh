@@ -91,6 +91,19 @@ Most of our clients who experienced difficulties working with a Global Sourcing 
 ## InfoDigita Technologies ( http://infodigita.com/ )
 Facilities Tower, 9th Floor, Kha-199/2, Bir Uttam Rafiqul Islam Ave, Next to the Moddho Badda U loop, Dhaka 
 ## Bit & Byte Technology ( https://bitbytetechnology.com/ )
+Bit Byte Technology Ltd. is one of the leading Design Inno vation Technology Companies in Bangladesh mostly.
+outsourcing. Also, we have few SAAS products and we are working in Bangladesh, Nepal, Australia, USA, Canada & Germany. 
+Our team consists of expertise in Web, Software and Mobile app Development.
+
+UI & UX Design, AR / VR / XR, AI and Machine learning, Brand management, Digital, and Social media innovation, consuer research, and project management.
+
+𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐂𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐞:
+- iOS & Android Application Developmnt
+- Web Apps Development
+- Creative & Innovative Design
+- Open Source Solution
+
+UI & UX Design, AR / VR / XR, AI and Machine learning, Brand management, Digital, and Social media innovation, consuer research, and project management.
 1/1 NS Road, (2nd Floor), Block A, Banasree, Dhaka
 ## Colgis BD Ltd ( http://colgis-bd.com/ )
 ## Orbit Informatics Ltd ( http://www.orbitinformatics.com/ )
