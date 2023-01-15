@@ -101,7 +101,26 @@ Most of our clients who experienced difficulties working with a Global Sourcing 
 - AI-Artificial intelligence; ML - Machine Learning, Thermal Packaging, Thermal Simulation, and Passive Package/Shipper Engineering
 
 ## Brain Station23 ( https://brainstation-23.com/ )
-8th Floor, 2 Bir Uttam AK Khandakar Road, Dhaka 
+Brain Station 23 Limited is a homegrown software development company providing state-of-the-art software & IT solutions for fintech, telco, eCommerce, pharma, manufacturing, retail, etc. industries both locally & globally since 2006.
+
+Our mission is “To create success & happiness for our customers & employees with our passion for technology while creating high growth opportunity of fulfilling employment thus serving humanity."
+
+Currently, we are providing Software & IT solutions to over 25+ countries with active partners in- Germany, USA, Norway, Netherlands, Canada, Australia, Japan, South Africa.
+
+𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐂𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐞:
+Our service offers cover areas of 
+- custom web & mobile application developments
+- ERP solutions
+- LMS
+- eCommerce solutions
+- fintech solutions
+- pharma solutions, telco solutions, enterprise solutions (AEM, Sitecore), cloud solutions
+- AI/ML, BI, AR VR, etc.
+
+Since 2012 Brain Station 23 is enabling local banks to go digital & have worked with City Bank, AB Bank, UCBL, Modhumoti Bank, SouthEast Bank, HSBC, Metlife, etc. in the fintech aspect. Parallelly our services for the Pharmaceutical industry in Bangladesh & around the Global shows a significant contribution along with Ecommerce & Telco. Incepta, Aristopharma, Lazz Pharma, BAT, JTI, Grameenphone, Robi, Banglalink, Telenor, British Telecom, Axiata, PayPal, etc. are a few of our key clients which we proudly mention.
+
+Currently, it employs over 700+ software engineers and has successfully completed 2000+ projects. Brain Station 23 is the name of Innovation & Digitalization for Enterprises & SMEs. We are ISO 9001 & 27001 certified company with incredible achievements & recognitions.
+
 ## InfoDigita Technologies ( http://infodigita.com/ )
 Facilities Tower, 9th Floor, Kha-199/2, Bir Uttam Rafiqul Islam Ave, Next to the Moddho Badda U loop, Dhaka 
 ## Bit & Byte Technology ( https://bitbytetechnology.com/ )
