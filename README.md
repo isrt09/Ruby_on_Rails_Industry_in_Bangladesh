@@ -138,6 +138,11 @@ UI & UX Design, AR / VR / XR, AI and Machine learning, Brand management, Digital
 
 UI & UX Design, AR / VR / XR, AI and Machine learning, Brand management, Digital, and Social media innovation, consuer research, and project management.
 1/1 NS Road, (2nd Floor), Block A, Banasree, Dhaka
+## MetaDesign Solutions Pvt. Ltd.
+MetaDesign Solutions is an "Offshore Software Development Service and Support"​ provider company based in Gurgaon, India. The MetaDesign family comprises of closely-knitted multi-talented software professionals having a tremendous passion for building end-to-end business solutions. We are a team of dedicated technocrats who are committed to hear nothing less than one word for our work - Perfect.
+
+We offer full software product lifecycle services, from Requirement Gathering, Design, Architecture, Development, Deployment, Support and Documentation. Our offshore software development services are based on the highest standards of software development to ensure we always deliver smart and high-quality solutions. Our software service spectrum covers software development in Mobile Apps Vertical, Open Source (PHP, Java, Ruby on Rails) and other proprietary (Microsoft, Apple) platforms.
+
 ## Colgis BD Ltd ( http://colgis-bd.com/ )
 ## Orbit Informatics Ltd ( http://www.orbitinformatics.com/ )
 ## Gigalogy ( https://gigalogy.com/ )
